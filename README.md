@@ -69,3 +69,7 @@ Pictured:
 [MIT](https://github.com/PanJiaChen/vueAdmin-template/blob/master/LICENSE) license.
 
 Copyright (c) 2017-present PanJiaChen
+
+
+
+成都智慧江油 访客机虚拟屏幕项目
